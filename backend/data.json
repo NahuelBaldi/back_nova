@@ -1,0 +1,279 @@
+{
+    
+    "cursos": [
+        {
+            "id": 1,
+            "categoria": "musica",
+            "nombre": "Beatbox",
+            "precio": 20,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Beatbox donde aprenderas a poder ritmos... "
+            
+        },
+        {
+            "id": 2,
+            "categoria": "musica",
+            "nombre": "Canto",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Canto"
+
+        },
+        {
+            "id": 3,
+            "categoria": "musica",
+            "nombre": "Guitarra",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+            
+        },
+        {
+            "id": 4,
+            "categoria": "desarrollopersonal",
+            "nombre": "Productividad",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+            
+        },
+        {
+            "id": 5,
+            "categoria": "desarrollopersonal",
+            "nombre": "Liderazgo",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 6,
+            "categoria": "desarrollopersonal",
+            "nombre": "Inteligencia Emocional",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 7,
+            "categoria": "fotografia",
+            "nombre": "Edicion de video",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 8,
+            "categoria": "fotografia",
+            "nombre": "Fotogafia para principiantes",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 9,
+            "categoria": "diseño",
+            "nombre": "Diseño Grafico",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 10,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 11,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+
+        {
+            "id": 12,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 13,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 14,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 15,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 16,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 17,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 18,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 19,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 20,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 21,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 22,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 23,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 24,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 25,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 26,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 27,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 28,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png",
+            "descripcion":"Curso de Guitarra"
+
+        },
+        {
+            "id": 28,
+            "categoria": "fotografia",
+            "nombre": "Adobe Photoshop Avanzado",
+            "precio": 5,
+            "img":"../img/productos/1.png"
+        }
+
+    ],
+    "carrito" : [ ],
+
+    "paginacion": {
+        "elementosPorPagina":4, 
+        "paginaActual": 1
+    }
+}
+
+
+
+
+
+
+

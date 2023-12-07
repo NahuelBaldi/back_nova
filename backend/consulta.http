@@ -1,0 +1,37 @@
+###
+POST http://localhost:3009/api/products/create
+Content-Type: application/json
+
+{
+    "category": "tecnicatura",
+    "description":"sadasd",
+    "image":"asddas",
+    "price":5.99,
+    "name":"NOVA"
+}
+###
+DELETE http://localhost:3008/api/products/create
+
+###
+
+DELETE http://localhost:3008/api/products/656ccc0576ba186d07719203
+
+###
+PUT http://localhost:3009/api/products/656ccce02902a8de90526b5b
+Content-Type: application/json
+
+{
+    "category": "Nueva categoría",
+    "description": "Nueva descripción",
+    "image": "Nueva URL de la imagen",
+    "price": 9.99,
+    "name": "JAVA"
+}
+
+
+###
+GET http://localhost:3009/api/products/search-category?partialCategory=tec
+
+
+###
+GET http://localhost:3009/api/products/search-name?partialName=al
